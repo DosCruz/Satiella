@@ -119,6 +119,12 @@ h2 {
     font-size: 1.5rem;
 }
 
+.custom-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    fill: currentColor;
+}
+
 a {
     text-decoration: none;
     color: inherit;
